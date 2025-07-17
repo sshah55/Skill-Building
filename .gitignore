@@ -1,0 +1,14 @@
+# Ignore virtual environments
+venv/
+
+# Bytecode
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# API keys or sensitive files
+secrets.py
